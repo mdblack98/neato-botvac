@@ -43,9 +43,9 @@ This document contains links to firmware images on the official Neato Robotics s
 
 | Version   | Firmware Date | Certificate Validity         | Download   |
 |-----------|---------------|------------------------------|------------|
-| 4.5.3_189 | 2019-10-29    | **2024-01-19 to 2025-02-19** | [Download](https://neatorobotics-ota.s3.amazonaws.com/production/Neato_4.5.3_189.tgz) |
-| 4.6.0_72  | 2020-01-27    | 2019-03-20 to 2021-03-19     | [Download](https://neatorobotics-ota.s3.amazonaws.com/production/Neato_4.6.0_72.tgz) |
-| 4.2.0_102 | 2018-07-12    | 2018-01-17 to 2019-05-11     | [Download](https://neatorobotics-ota.s3.amazonaws.com/production/Neato_4.2.0_102.tgz) |
+| 4.5.3_189 | 2019-10-29    | **2024-01-19 to 2025-02-19** | [From Neato Robotics](https://neatorobotics-ota.s3.amazonaws.com/production/Neato_4.5.3_189.tgz) ([Internet Archive Mirror](https://web.archive.org/web/20240506174708/https://neatorobotics-ota.s3.amazonaws.com/production/Neato_4.5.3_189.tgz)) |
+| 4.6.0_72  | 2020-01-27    | 2019-03-20 to 2021-03-19     | [From Neato Robotics](https://neatorobotics-ota.s3.amazonaws.com/production/Neato_4.6.0_72.tgz) ([Internet Archive Mirror](https://web.archive.org/web/20240506174741/https://neatorobotics-ota.s3.amazonaws.com/production/Neato_4.6.0_72.tgz)) |
+| 4.2.0_102 | 2018-07-12    | 2018-01-17 to 2019-05-11     | [From Neato Robotics](https://neatorobotics-ota.s3.amazonaws.com/production/Neato_4.2.0_102.tgz) ([Internet Archive Mirror](https://web.archive.org/web/20240506174833/https://neatorobotics-ota.s3.amazonaws.com/production/Neato_4.2.0_102.tgz)) |
 
 Most users should choose `4.5.3_189`. See the [Firmware Version Notes](#firmware-version-notes) section below for more information on these firmware versions.
 
@@ -212,4 +212,4 @@ Its certificate is currently expired, but this can be bypassed using the methods
 
 ## Document revisions
 
-This document was last updated on April 25, 2024. The download links worked as of that date. If you find that the links are broken, please open a GitHub issue or a pull request to update them. If you have any other information or corrections to add, please do the same.
+This document was last updated on May 6, 2024. The download links worked as of that date. If you find that the links are broken, please open a GitHub issue or a pull request to update them. If you have any other information or corrections to add, please do the same.
